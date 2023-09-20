@@ -1,0 +1,10 @@
+{
+  "firstName": "Wolfgang",
+  "lastName": "Reitmeier",
+  "email": "abc@gmail.com",
+  "mobileNumber": "0284859238929",
+  "subjects": "Write any important Subject here",
+  "currentAddress": "Carldiem Strasse 55, 28734, Steinbach",
+  "picturePath": "cypress/fixtures/sampleFile.jpeg",
+  "state": "NCR"
+}
